@@ -1,5 +1,4 @@
-// push
-// denna metod lägger till ett eller flera element i en array
+// push, denna metod lägger till ett eller flera element i en array
 // den kan också returnera längden av arrayen efter det att det nya elementet lagts till
 const teams = ['bajen', 'united', 'barca']
 let count = teams.push('dortmund') //lägger till dortmund i arrayen teams
